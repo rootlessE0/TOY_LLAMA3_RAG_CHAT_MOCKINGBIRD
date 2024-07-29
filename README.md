@@ -1,5 +1,5 @@
-# TOY_LLAMA3_RAG_CHAT_MOKINGBIRD
-> [토이프로젝트] LLAMA3:8B Quantization 모델 활용 카카오톡/DM 흉내봇
+# TOY_LLAMA3_RAG_CHAT_MOCKINGBIRD
+> [토이프로젝트] LLAMA3:8B Quantization 모델 활용 카카오톡/DM 앵무새봇
 
 #### 목적
 - 1차: 내 말투와 대화 방식을 흉내내는 봇을 만들자
